@@ -1,0 +1,2 @@
+[17-Apr-2022 05:30:24 Asia/Jakarta] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php72/sess_30c7f1386f1517ae3f33f52d9d0b1fab, O_RDWR) failed: No such file or directory (2) in /home/mong6384/public_html/weather/login.php on line 3
+[17-Apr-2022 05:30:24 Asia/Jakarta] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php72) in /home/mong6384/public_html/weather/login.php on line 3
