@@ -21,21 +21,71 @@ if (empty($_SESSION['user'])) {
 
 <!-- Content -->
 <div class="row">
-  <div class="col-lg-8">
-    <div class="card">
+    <div class="col-lg-8">
+      <div class="card">
       <div class="card-body">
-        vdafvafv
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="card">
+              <div class="card-body">
+                ehwrthw
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="card">
+              <div class="card-body">
+                uqfhlqfkou
+              </div>
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="card">
+              <div class="card-body">
+                uqfhlqfkou
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="card">
+              <div class="card-body">
+                fuqeihfnqn
+              </div>
+            </div>
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-4">
+      <div class="card">
+        <div class="card-body">
+          vywqfjshf
+        </div>
       </div>
     </div>
   </div>
-  <div class="col-sm-4">
-    <div class="card">
-      <div class="card-body">
-        fvsdvasdvasdv
+  <br>
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="card">
+        <div class="card-body">
+          bfgweuirfano
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-8">
+      <div class="card">
+        <div class="card-body">
+          hueagqnom
+        </div>
       </div>
     </div>
   </div>
-</div>
+
 <!-- End of Content -->
   
 
